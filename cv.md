@@ -51,7 +51,7 @@ I want to become a developer to bring cool ideas to life. It is important for me
   - ARC and memory management
   - Design Patterns
   - Algorithms and Data Structures
-5. [Code examples](https://gist.github.com/VolodyaVS/e14ed7d30246778b2bea3bb76a13920e)
+5. Look code examples [here](https://gist.github.com/VolodyaVS/e14ed7d30246778b2bea3bb76a13920e)
 6. Experience:
 Я разрабатываю собственные приложения для проверки и практики приобретенных знаний. [GitHub](https://github.com/VolodyaVS)
 7. Education:
